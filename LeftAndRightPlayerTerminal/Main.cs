@@ -43,8 +43,8 @@ namespace LeftAndRightPlayerTerminal
             FixedRotationIndicators = Config.Bind(
                 "General",
                 "Fixed Rotation Indicators",
-                true,
-                "The L and R symbols do not rotate with the player's view." 
+                false,
+                "The L and R symbols rotate with the player's view." 
             );
 
             LeftIndicatorColorR = Config.Bind(
