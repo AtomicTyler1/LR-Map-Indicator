@@ -4,6 +4,8 @@ This mod used to be called **LeftAndRightPlayerTerminal** before I renamed it fo
 
 ## About the mod
 
+**Big thanks to @tacobox on discord for the asset bundle and the fixed position code.**
+
 This mod is for people that may have a hard time doing the following:
 - Quickly working out "On your left/right"
 - Issues understanding lefts and rights
@@ -11,7 +13,9 @@ This mod is for people that may have a hard time doing the following:
 
 This mod may not be for everybody, but do not criticize anyone that uses it.
 
-So this mod effectively changes the model of the player looking and simply replaces it with the same model but added big text on the side.
-This does mean the text can be upside down, which may be confusing but hopefully still provide enough detail to work out which is **L** and **R**.
+This mod is highly configurable:
+- Fixed rotation L & R (Stops the text from going upside down)
+- RGB Color configs for the Left indicator
+- RGB Color configs for the Right indicator
 
 Mod download: **https://thunderstore.io/c/lethal-company/p/AtomicStudio/Left_and_Right_Map_Indicator/**
